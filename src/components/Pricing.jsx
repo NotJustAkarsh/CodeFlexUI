@@ -122,7 +122,7 @@ const Pricing = () => {
         </div>
         <div className="text-center mt-8 sm:mt-12 ">
           <p className="text-gray-400 text-base text-xl">
-            Need a custom plan? <a href="#" className="text-blue-400 hover:text-blue-300"> Contact our sales team</a>
+            Need a custom plan? <a href="mailto:work.notjustakarsh@gmail.com" className="text-blue-400 hover:text-blue-300"> Contact our sales team</a>
           </p>
         </div>
       </div>
