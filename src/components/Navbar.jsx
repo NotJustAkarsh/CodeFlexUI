@@ -18,7 +18,7 @@ const Navbar = () => {
             </div>
             <span>
               <span className="text-lg sm:text-xl md:text-2xl font-medium">
-                Code<span className="text-blue-500">Flow</span>
+                Code<span className="text-blue-500">Flex</span>
               </span>
             </span>
           </div>

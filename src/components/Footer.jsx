@@ -30,7 +30,7 @@ export default function Footer() {
               </div>
               <span className="text-lg sm:text-xl font-bold">
                 <span className="text-white">Code</span>
-                <span className="text-blue-400">Flow</span>
+                <span className="text-blue-400">Flex</span>
               </span>
             </div>
             <p className="text-gray-400 mb-4 sm:mb-6 max-w-xs mx-auto sm:mx-0 text-sm sm:text-base">
